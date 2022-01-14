@@ -114,4 +114,3 @@ from scipy import stats
 result=stats.ttest_ind(eyesopen, eyesclosed, equal_var = False)
 print(result)
 
-hjhhj
